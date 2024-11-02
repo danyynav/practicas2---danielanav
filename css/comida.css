@@ -1,0 +1,36 @@
+/* DOCUMENTO CSS */
+
+*{margin: 0;
+border-spacing: 0;}
+
+h1 {text-align: center;
+background-color:darkred;
+color: white;}
+
+footer {font-size: 10pt;}
+
+h3 {color: darkred;
+    width: auto; 
+    margin: auto;}
+
+.pie {height: 80px; text-align: center;
+background-color:black;}
+
+.pie span {line-height: 5em;
+    color: whitesmoke;}
+
+
+.contenido {width: 80%; 
+    margin: auto;}
+
+.contenido p {padding: 20px;
+    line-height: 1.5;
+    font-size: 1.2em;}
+
+h2 { width: 80%; 
+    margin: auto; 
+color: darkred;}
+
+.derecho {float: right;}
+
+

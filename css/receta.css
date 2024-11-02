@@ -1,0 +1,32 @@
+/*doc css*/
+
+*{margin: 0;
+padding: 0;}
+
+body {  font-family: "Quicksand", sans-serif;
+background-color:rgb(235, 255, 235);}
+
+h1 { background-color: lightgreen; 
+color: white;
+text-align: center; margin: 0; padding: 0;
+text-shadow: 0px 0px 6px rgb(255, 255, 255);}
+
+h2 {color:lightgreen;}
+
+footer {font-size: 10pt;}
+
+.pie {text-align: center;
+background-color: lightgreen;
+height: 80px; 
+color: white;}
+
+.pie span {line-height: 5em;}
+
+.contenido {line-height: 1.5;
+    display: flex;
+    padding: 60px;
+    line-height: 1.5;}
+
+.imagen {height: 200;
+padding: 20px;}
+

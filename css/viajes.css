@@ -1,0 +1,30 @@
+/*documento css*/
+
+body {background-color: #d4f8f6;
+      font-family: "Noto Sans", sans-serif;}
+
+body {padding-left: 1cm;}
+body {padding-right: 1cm;}
+
+body p {line-height: 1.5;}
+
+footer {font-size: 9pt;
+        text-align: center;
+    background-color: #76e45b;}
+
+h1 {background-color:rgb(240, 254, 255);
+    font-size: 25pt;
+    padding: 0;
+    margin: 0;
+    color: #4c8b8b;
+    text-align: center;}
+
+h2 {color: #4c8b8b;
+    text-align: center;}
+p {text-align: center;}
+
+.viaje { width: 60%;
+    min-height: 1px;
+    margin: 15px auto 15px auto; 
+    padding: 15px 15px 15px 15px;}
+

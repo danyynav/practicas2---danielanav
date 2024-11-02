@@ -1,0 +1,18 @@
+/* Documento css */
+body {background-color: #b373f0; 
+    font-family: "Raleway", sans-serif;}
+
+h1, h3 {color: #7dfff4;
+    font-size: 2em;
+    text-align: center; 
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: underline;}
+
+h2, h4 {color: #791044;}
+
+body div p small {color: #72e426;
+                background-color: rgb(218, 32, 119);}
+
+
+div p {line-height: 1.5;}

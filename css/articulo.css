@@ -1,0 +1,32 @@
+/*documento css*/
+
+body {background-color:beige;
+    font-family: "Lato", sans-serif;}
+
+body {padding-left: 1cm;}
+
+body {padding-right: 1cm;}
+
+body {padding-block-end: 1cm;}
+
+body {padding-block-start: 1cm;}
+
+body p {line-height: 1.5;}
+
+h1 {background-color:burlywood; text-align: center;
+    margin: 0;
+    padding: 25px 0;
+    font-size: 25pt;}
+h1 {color: white;}    
+
+footer {font-size: 9pt;}
+
+
+
+
+
+
+
+
+
+
